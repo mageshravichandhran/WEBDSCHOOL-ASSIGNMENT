@@ -10,7 +10,7 @@ font-family: 'Montserrat', sans-serif; */
 .container{
     display:flex;
     height:100vh;
-    background-image:url("images/Bgc.JPG");
+    background-image:url("Bgc.JPG");
     position:cover;
     flex-direction: row;
     
@@ -391,7 +391,7 @@ font-family: 'Montserrat', sans-serif; */
 .section-6--container{
     
    
-   background-image: url(images/Layer.PNG);
+   background-image: url(Layer.PNG);
     
    background-size: conver;
    background-position: center;
